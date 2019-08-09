@@ -1,6 +1,7 @@
 # Table of contents
 
-* [TestPage 1 - Guide](README.md)
+* [Introduction](README.md)
+* [TestPage 1 - Guide](testpage-1-guide.md)
 * [TestPage 2 - FAQ](testpage-2-faq.md)
 
 ## Sec 1
